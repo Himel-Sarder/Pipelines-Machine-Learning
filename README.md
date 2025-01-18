@@ -1,6 +1,7 @@
 # 🚀 Pipelines-Machine-Learning  
 
-Welcome to the **Pipelines-Machine-Learning** repository! 🎉 This project demonstrates the power of machine learning pipelines for efficient data preprocessing, model training, and evaluation.  
+Welcome to the **Pipelines-Machine-Learning** repository! 🎉 This project demonstrates the power of machine learning pipelines for efficient data preprocessing, model training, and evaluation.   
+
 ![Screenshot 2025-01-18 103709](https://github.com/user-attachments/assets/8fbc00e1-4299-47aa-9610-f2cfd7aadb17)
 ![Screenshot 2025-01-17 200440](https://github.com/user-attachments/assets/a6e27a31-8dc1-4868-9272-7718018a46cd)
 
